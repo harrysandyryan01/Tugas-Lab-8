@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Tugas\Semester 3\Tugas Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Tugas\Semester 3\Tugas Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmEntryHasil.resources
+C:\Users\ASUS\Documents\Tugas\Semester 3\Tugas Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmHasil.resources
+C:\Users\ASUS\Documents\Tugas\Semester 3\Tugas Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\ASUS\Documents\Tugas\Semester 3\Tugas Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Tugas\Semester 3\Tugas Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
